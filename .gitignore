@@ -1,0 +1,32 @@
+# =========================
+# Java / Spring Boot
+# =========================
+backend/target/
+backend/**/build/
+backend/**/out/
+*.class
+*.jar
+*.war
+*.log
+
+# =========================
+# Angular
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/**/node_modules/
+frontend/**/dist/
+
+# =========================
+# IDEs e Configurações Locais
+# =========================
+*.idea/
+*.vscode/
+*.DS_Store
+
+# =========================
+# SO (Windows / Linux / Mac)
+# =========================
+Thumbs.db
+ehthumbs.db
+.DS_Store
