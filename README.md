@@ -20,3 +20,4 @@ Desenvolver uma aplicação completa para controle de vagas, entrada/saída de v
 - Maria Juciele
 - Nathaly Silva
 - Vitorio Augusto
+- Matheus Almeida
